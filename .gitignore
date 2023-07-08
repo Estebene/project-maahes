@@ -1,3 +1,8 @@
 /target
+/output
+/old_files
 *.docx
 *.json
+*.exe
+*.zip
+*.xlsx

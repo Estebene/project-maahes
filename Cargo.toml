@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 docx-rs = "0.4.1"
+native-dialog = "0.6.3"
+calamine = "0.18.0"
